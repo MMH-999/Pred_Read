@@ -1,0 +1,6 @@
+FAKT_FID,Outcome_Med_all_indexes,Outcome_Med_all_readmission_is,Feature_1,Feature_2,Feature_3,Blutdruck_sys_1,FAKT_OPS_Counter_1
+10001,1,0,5.1,3.5,1.4,120,2
+10002,1,1,4.9,3.0,1.4,130,0
+10003,1,0,4.7,3.2,1.3,118,1
+10004,1,1,4.6,3.1,1.5,115,1
+10005,1,0,5.0,3.6,1.4,125,3
